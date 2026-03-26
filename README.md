@@ -32,3 +32,7 @@ To identify patterns, relationships, and trends in the automotive market that in
 - Build predictive models for price estimation  
 - Perform advanced feature selection  
 - Explore time-based market trends  
+
+## Related Project
+This analysis supports a machine learning project for price prediction:
+https://github.com/selina-19/car-price-prediction
